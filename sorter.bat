@@ -1,0 +1,1 @@
+python C:\Users\Adriano\PycharmProjects\pythonSorter\sorter.py C:\Users\Adriano\CLionProjects\sorter\Desktop
