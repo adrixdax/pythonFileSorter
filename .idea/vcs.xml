@@ -1,32 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/FMOdataKit" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/FMProKit" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/First Year/MC1 Challange/4Immagini1Parola" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/First Year/MC3/EmotionSystem" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/First Year/Macro/Stormy" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/First Year/MotorBike/MotorBikeApp" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/First Year/MotorcycleGyroTracker" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/First Year/NC1 Challange/DataFlow" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/First Year/NC1 Challange/Linkedin" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/First Year/NC2 Challange/AnimationTest" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/First Year/NC2 Challange/Veggie-s-attack" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/First Year/NC2 Challange/VeggiesAttack2.0" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/First Year/ObjectAR" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/First Year/PlaneRecognizer" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/First Year/PrivateProjects/MaintanceSchedulerSWIFT" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/First Year/TestCurvedText" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/Personal/BEPCalculator" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/Personal/BikerRun" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/Personal/FMProKit" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/Personal/HealthKitIntegration" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/Personal/MaintenanceScheduler" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/Personal/SevenSeasKit" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/Personal/Tracy" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/Seven Seas/Repo/RichTextKit" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/Seven Seas/Repo/seven-seas" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/WorkFlow/GitWorkflow-5" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Desktop/ADA/WorkFlow/Workshop-FileMaker-OData" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/FMOdataKit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/FMProKit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/First Year/MC1 Challange/4Immagini1Parola" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/First Year/MC3/EmotionSystem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/First Year/Macro/Stormy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/First Year/MotorBike/MotorBikeApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/First Year/MotorcycleGyroTracker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/First Year/NC1 Challange/DataFlow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/First Year/NC1 Challange/Linkedin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/First Year/NC2 Challange/AnimationTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/First Year/NC2 Challange/Veggie-s-attack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/First Year/NC2 Challange/VeggiesAttack2.0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/First Year/ObjectAR" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/First Year/PlaneRecognizer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/First Year/PrivateProjects/MaintanceSchedulerSWIFT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/First Year/TestCurvedText" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/Personal/BEPCalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/Personal/BikerRun" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/Personal/FMProKit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/Personal/Floora" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/Personal/HealthKitIntegration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/Personal/MaintenanceScheduler" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/Personal/SevenSeasKit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/Personal/Tracy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/Seven Seas/Repo/RichTextKit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/Seven Seas/Repo/seven-seas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/WorkFlow/GitWorkflow-5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Cartelle/ADA/WorkFlow/Workshop-FileMaker-OData" vcs="Git" />
   </component>
 </project>
